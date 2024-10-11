@@ -1,6 +1,3 @@
-//
-// Created by swx on 23-5-30.
-//
 #include "Persister.h"
 #include "util.h"
 // todo:如果文件出现问题会怎么办？？
